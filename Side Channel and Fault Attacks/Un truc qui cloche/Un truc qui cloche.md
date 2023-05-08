@@ -4,7 +4,7 @@
 
 L'algorithme de signature utilisé est celui de [RSA-CRT](https://en.wikipedia.org/wiki/RSA_(cryptosystem)#Using_the_Chinese_remainder_algorithm) (CRT = Chinese Remainder Theorem). Ce théorême est utilisé pour accélérer le calcul de signature, par rapport à l'algorithme classique.
 
-D'ailleurs c'est celui à utiliser pour résoudre le Challenge [RSA Secure Dev 1/3](../RSA%20Secure%20Dev%201/RSA%20Secure%20Dev%201.md) :)
+D'ailleurs c'est celui à utiliser pour résoudre le Challenge [RSA Secure Dev 1/3](../RSA%20Secure%20Dev%201/RSA%20Secure%20Dev%201.md) :smile:
 
 Si tout se passe bien, on devrait avoir pour tout message `m` et sa signature `s` :
 

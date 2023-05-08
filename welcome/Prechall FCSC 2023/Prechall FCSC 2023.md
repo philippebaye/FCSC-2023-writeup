@@ -146,7 +146,7 @@ Pour connaître le chemin à suivre, on reconstitue le labyrinthe avec le script
 
 Voici le labyrinthe ainsi reconstitué : [`teaser-maze.txt`](teaser-maze.txt).
 
-NB : on peut résoudre le labyrinthe à la main, car il n'y a qu'un seul chemin possible, même si cela prend un temps certain :).
+NB : on peut résoudre le labyrinthe à la main, car il n'y a qu'un seul chemin possible, même si cela prend un temps certain :smile:.
 
 Le parcours en `x` rouge permettant depuis l'entrée `E` d'aboutir à la sortie `S` : [teaser-parcours.pdf](teaser-parcours.pdf)
 

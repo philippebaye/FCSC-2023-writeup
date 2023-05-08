@@ -27,7 +27,7 @@ Le bouton **`See the flags`** permet l'affichage des flags qui sont bien tous `F
 On passe à l'analyse du code source fourni :
 - une base de données PostgreSQL est utilisée pour stocker les données.
 - en commentaire le DDL de 3 tables (`users`, `flags` et `country_tokens`) est fourni
-- on cherche une possibilité d'exploitater une injection SQL
+- on cherche une possibilité d'exploiter une injection SQL
 
 Toutes les requêtes à la base passent par un `prepare statement`, sauf une au niveau de la fonction `getData()` (qui est utilisée justement pour construire la page des flags) :
 

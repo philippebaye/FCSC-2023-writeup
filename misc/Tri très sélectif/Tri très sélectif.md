@@ -10,7 +10,7 @@ On doit trier un tableau de 32 valeurs, en effectuant au maximum `5 * 32 + 25` c
 
 On pense à utiliser un algo de type [quicksort](https://fr.wikipedia.org/wiki/Tri_rapide). Sa complexité est en moyenne en `n.log(n)` : on devrait donc aboutir en respectant la contrainte du nombre maximum de comparaisons.
 
-Voici l'implémentation réalisée : [tri-tres-selectif.py](tri-tres-selectif.py)
+Voici l'implémentation réalisée : [client-solution.py](client-solution.py)
 1. utilisation du dernier élément du tableau comme pivot
 2. on compare les autres éléments du tableau avec ce pivot, et on note l'index de ceux qui sont plus grands (que le pivot)
 3. on positionne le pivot à sa place dans le tableau

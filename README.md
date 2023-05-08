@@ -6,7 +6,14 @@ Le CTF s'est déroulé du 21 au 30 avril 2023 en ligne et a réuni 1364 compéti
 
 ## Résultat obtenu
 
-<img alt="Classement final à l'issue de la compétition" src="./score-final.png" height="220"><img alt="Progression du score sur la durée de la compétition" src="score-progression.png" height="220" align="right">
+<table>
+  <tbody>
+    <tr>
+      <td><img alt="Classement final à l'issue de la compétition" src="./score-final.png" height="220"></td>
+      <td><img alt="Progression du score sur la durée de la compétition" src="score-progression.png" height="220"></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Challenges résolus
 
